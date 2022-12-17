@@ -1,4 +1,4 @@
-#Code Refactor
+#Refactor
 
 Assignment: Semantic Refactoring
 Client Name: Horiseon Marketing Agency
