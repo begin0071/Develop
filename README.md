@@ -1,9 +1,9 @@
 # Code Refactoring
 Assignment: Semantic Refactoring
-Client Name: Horiseon Marketing Agency
+Client Name: Horiseon 
 Link: https://begin0071.github.io/Develop/
 Due date: 12/16/2022
-![Screenshot of the page](develop/images/01-html-css-git-homework-demo.png "webpage screenshot")
+![Screenshot of the page](..develop/assets/images/01-html-css-git-homework-demo.png "webpage screenshot")
 
 ##Description
 -The Agency's website was functional, but not accessible.
